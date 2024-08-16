@@ -1,12 +1,28 @@
-- Hey, I’m @Midnightandstillup.
+### Hello person reading my page 👋 :D
 
-- I go `Tip Tap` on keyboard and makes things.
+- I like making things, whether thats a website or a game;
 
-- Currently working on a game <3
+- I've made a few projects now that are public and links to them can be found on my website `catxx1212.com`;
 
-- CatXx1212_dev on "X".
+- <pre>I do brackets like this() {
+    // 🔥
+  };<pre/>
 
-- From meeeee.
+### Other socal links:
+
+<pre>
+var socalLinks = {
+  
+  X: catxx1212_dev,
+  
+  GitHub: MidnightAndStillUp, 
+  
+}; 
+</pre>
+
+---
+
+
 <!---
 Midnightandstillup/Midnightandstillup is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
